@@ -9,7 +9,7 @@
 
 
 ### :woman_technologist: Обо мне :
-- 👋 Я - @EvgenyaPankratova, г. Тюмень
+- 👋 Евгения Панкратова, г. Тюмень
 - 👀 Хочу стать Junior Frontend-разработчиком
 - 📫 Моя почта: janice0free@gmail.com
 
