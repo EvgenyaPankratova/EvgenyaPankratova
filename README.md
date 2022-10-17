@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я  <a href="https://daniilshat.ru/" target="_blank">Евгения</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend-разработчик из г. Тюмень</h3>
+<h3 align="center">Собираюсь стать Junior Frontend-разработчиком</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="100"/>
@@ -9,10 +9,9 @@
 
 
 ### :woman_technologist: Обо мне :
-- 👋 Я - @EvgenyaPankratova
-- 👀 Junior Frontend-разработчик
-- 🌱 Мои навыки и знания: 
-- 📫 Мои контакты:
+- 👋 Я - @EvgenyaPankratova, г. Тюмень
+- 👀 Хочу стать Junior Frontend-разработчиком
+- 📫 Моя почта: janice0free@gmail.com
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/S3tmm529YYiJeCaIDZ/giphy.gif" width="100"/>
