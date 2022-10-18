@@ -1,6 +1,5 @@
 <h1 align="center">Привет, я  <a href="https://daniilshat.ru/" target="_blank">Евгения</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Собираюсь стать Junior Frontend-разработчиком</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="100"/>
